@@ -39,7 +39,7 @@ class _ConfigPageState extends State<ConfigPage> {
       child: BlocBuilder<ConfigBloc, ConfigState>(
         builder: (context, state) {
           return MaterialApp(
-            title: 'Google Devfest',
+            title: 'Devfest Ado-Ekiti',
             debugShowCheckedModeBanner: false,
             theme: ThemeData(
               //* Custom Google Font
