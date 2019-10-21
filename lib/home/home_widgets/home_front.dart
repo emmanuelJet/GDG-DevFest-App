@@ -141,38 +141,26 @@ class HomeFront extends StatelessWidget {
             IconButton(
               icon: Icon(FontAwesomeIcons.facebookF),
               onPressed: () async {
-                await _launchURL("https://facebook.com/imthepk");
+                await _launchURL("https://www.facebook.com/gdgadoekiti");
               },
             ),
             IconButton(
               icon: Icon(FontAwesomeIcons.twitter),
               onPressed: () async {
-                await _launchURL("https://twitter.com/imthepk");
-              },
-            ),
-            IconButton(
-              icon: Icon(FontAwesomeIcons.linkedinIn),
-              onPressed: () async {
-                _launchURL("https://linkedin.com/in/imthepk");
-              },
-            ),
-            IconButton(
-              icon: Icon(FontAwesomeIcons.youtube),
-              onPressed: () async {
-                await _launchURL("https://youtube.com/mtechviral");
+                await _launchURL("https://twitter.com/gdgadoekiti");
               },
             ),
             IconButton(
               icon: Icon(FontAwesomeIcons.meetup),
               onPressed: () async {
-                await _launchURL("https://meetup.com/");
+                await _launchURL("https://www.meetup.com/gdgadoekiti");
               },
             ),
             IconButton(
               icon: Icon(FontAwesomeIcons.envelope),
               onPressed: () async {
                 var emailUrl =
-                    '''mailto:mtechviral@gmail.com?subject=Support Needed For DevFest App&body={Name: Pawan Kumar},Email: pawan221b@gmail.com}''';
+                    '''mailto:dsceksu@gmail.com?subject=Support Needed For DevFest App&body={Enter Message Here}''';
                 var out = Uri.encodeFull(emailUrl);
                 await _launchURL(out);
               },

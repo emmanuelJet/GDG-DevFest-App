@@ -1,4 +1,4 @@
-package com.example.flutter_devfest;
+package com.dsceksu.devfest;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

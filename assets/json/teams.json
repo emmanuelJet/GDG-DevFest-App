@@ -1,34 +1,52 @@
 {
   "teams": [
     {
-      "name": "Sundar Pichai",
+      "name": "David Oluwabusayo",
       "desc": "Organizer",
-      "contribution": "Google CEO",
-      "image": "https://pbs.twimg.com/profile_images/864282616597405701/M-FEJMZ0_400x400.jpg"
+      "contribution": "GDG Ado-Ekiti",
+      "image": "https://i.ibb.co/rwhpqyd/David.jpg"
     },
     {
-      "name": "Vrijraj",
+      "name": "Olufemi Ajibulu",
       "desc": "Co-Organizer",
-      "contribution": "Logistics and travels",
-      "image": "https://avatars2.githubusercontent.com/u/10599101?s=460&v=4"
+      "contribution": "GDG Ado-Ekiti",
+      "image": "https://media.licdn.com/dms/image/C5603AQFPH8zQre0Zrg/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=eYj3q6BOm5EfgGFBkTEMaAhYM0cdkxQ1QFSxwB-7H_I"
     },
     {
-      "name": "Larry Page",
-      "desc": "Co-Organizer",
-      "contribution": "Founder",
-      "image": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F400x400.jpg%3Ffit%3Dscale%26background%3D000000"
-    },
-    {
-      "name": "Pawan Kumar",
-      "desc": "Co-Organizer",
-      "contribution": "Developed the app",
-      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4"
-    },
-    {
-      "name": "Pawan Kumar",
+      "name": "Slick Shola Akinrolie",
       "desc": "Organizer",
-      "contribution": "Developed the app",
-      "image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4"
+      "contribution": "GDG Akoko",
+      "image": "https://pbs.twimg.com/media/EHK3-U3XYAEtv4C.jpg"
+    },
+    {
+      "name": "Oluwaseyi Ayodele",
+      "desc": "Co-Organizer",
+      "contribution": "GDG Cloud Ado",
+      "image": "https://media.licdn.com/dms/image/C5603AQELMo6rvKef_A/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=ljuX3-wAGsYzj4LWNuRytqc3TP98z2OKcKulliTPobQ"
+    },
+    {
+      "name": "Joseph Origho",
+      "desc": "Organizer",
+      "contribution": "GDG Benin",
+      "image": "https://i.ibb.co/jbWQRrG/joseph.jpg"
+    },
+    {
+      "name": "Emmanuel Joseph(JET)",
+      "desc": "Lead",
+      "contribution": "DSC EKSU",
+      "image": "https://i.ibb.co/brx0pQw/JET-Full.png"
+    },
+    {
+      "name": "Adewale Adebayo",
+      "desc": "Lead",
+      "contribution": "DSC FUTA",
+      "image": "http://gdggreece.gr/wp-content/uploads/2019/08/DevFest-Social-Square.gif"
+    },
+    {
+      "name": "TBA",
+      "desc": "Organizer",
+      "contribution": "GDG Osogbo",
+      "image": "http://gdggreece.gr/wp-content/uploads/2019/08/DevFest-Social-Square.gif"
     }
   ]
 }

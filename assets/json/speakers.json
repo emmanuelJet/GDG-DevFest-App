@@ -1,84 +1,100 @@
 {
   "speakers": [
     {
-      "speaker_image": "https://avatars1.githubusercontent.com/u/12619420?s=400&u=eac38b075e4e4463edfb0f0a8972825cf7803d4c&v=4",
-      "speaker_name": "Pawan Kumar",
-      "speaker_desc": "Google Developer Expert, Flutter",
-      "speaker_session": "Talk: Getting Started With Flutter For Web",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_image": "https://pbs.twimg.com/media/EHK3-U3XYAEtv4C.jpg",
+      "speaker_name": "Slick Shola Akinrolie",
+      "speaker_desc": "Software Developer and Passionate Community Builder",
+      "speaker_session": "Overcoming The Almighty Imposter Syndrome",
+      "linkedin_url": "https://linkedin.com/in/slickboss",
+      "twitter_url": "https://twitter.com/meetslick"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVW9DRktRcllTZDN1T2VINnhiUC11M2pVUFZFLVI0dVh5czF6d2lKNGRwanJjVjJhWm1zSUJZelVkZzBRaG9uRkNJZmhVZEg3ZGpVV0RhRmpQWXFYeHU0Y1ZDRmROb3FQYnVBQ2VKMWdOSFRHS3B0YWxRLk8xa3k2cVpFOG15UFAyRnk",
-      "speaker_name": "Laura Morinigo",
-      "speaker_desc": "Software Developer, DMod Labs",
-      "speaker_session": "How I Became a Mobile Developer with Firebase and Flutter",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_image": "https://i.ibb.co/jhRQm3z/Pelumi.jpg",
+      "speaker_name": "Pelumi Adebayo",
+      "speaker_desc": "Mobile Web Specialist",
+      "speaker_session": "Driving a successful Freelance Career in software development",
+      "linkedin_url": "https://www.linkedin.com/in/adepelumi/",
+      "twitter_url": "https://twitter.com/pelumi_sapphire"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXJET043VnFRT2R1UHdyS1lFUElwLVNaYlVVbnc1enJuNTNGbUtQQjR0SF9STVUzMVptdkgzclRpRjhTUDc2WUNvNldKNFVacFhiXzF4bUoxTVc0RzlfXzF3d2tPUXl4NTNSNjBNSzRoaXB1VVBxOTRFLk0yOHMwWm1NeURjaWxQZ1k",
-      "speaker_name": "Jimenez Raul",
-      "speaker_desc": "Software Engineer, Byte Default",
-      "speaker_session": "Angular Elements",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_image": "https://i.ibb.co/brx0pQw/JET-Full.png",
+      "speaker_name": "Emmanuel Joseph(JET)",
+      "speaker_desc": "Lead, DSC EKSU",
+      "speaker_session": "Blockchain with Google Cloud Platform",
+      "linkedin_url": "https://linkedin.com/in/jet774",
+      "twitter_url": "https://twitter.com/emmanuelJet_"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UozlnKuWKqwaGjT2U6ylLLyMtoByOnx-ctrRmn5A8kptjCS50E8EgQDSuxYg8chsldOmSLbHScKX0ERlngHvbRp5XVRyNuAUSIm_Hguq3THTisLLaU.UyKUL3gyFQsEAcmO",
-      "speaker_name": "Sathish V J",
-      "speaker_desc": "Tech Architect, Investor, Tutor",
-      "speaker_session": "Machine Learning and AutoML on GCP",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_image": "https://i.ibb.co/7R95cnB/Favour.jpg",
+      "speaker_name": "Favour Chukwuedo",
+      "speaker_desc": "STEM Educator, Software Engineer, SDGs Advocate",
+      "speaker_session": "Zero to 10x Developer",
+      "linkedin_url": "https://www.linkedin.com/in/favour-chukwuedo",
+      "twitter_url": "https://twitter.com/SenseiFavour"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqZAYU9q0R5K2cq94DxU7ebiOMhilDlx5NzzsWWZ_oHxqcZV8H8j594rg_q_vyfTToA0BfScTHOHAj8uKf2OeF5MVqa_jmdjC9JO9-2TcPWjboxPf8.NN-XmkQxmHl1XyY_",
-      "speaker_name": "Timothy Jordan",
-      "speaker_desc": "Sr. Staff Developer Advocate, Google",
-      "speaker_session": "Top 5 from Firebase Summit '18",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_image": "https://i.ibb.co/09F3xSx/Whats-App-Image-2019-10-16-at-5-43-01-AM.jpg",
+      "speaker_name": "Precious Oluwafemi Sani",
+      "speaker_desc": "Co-Organizer, ANC. Brand Ambassador, Akolagtech",
+      "speaker_session": "GitHub, Version Control",
+      "linkedin_url": "https://www.linkedin.com/in/precious-oluwafemi-sani-67b9a370/",
+      "twitter_url": "https://twitter.com/Oluwafemipsani"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXJ2Zkg0YUY1ZFJoMFFRbWlqdFE4MV9nNTdJR0dxUS1ubVJfbkN2Y1RaS3VoaUp2dWd3ejNmUmJRekFQaU5QNGhqd1F6cUtKQXpYeXJkemVyS2hUY1NzSWloMXFCNzQzdmpRVVVmU0Z4XzJZRDVZQXVBLnFHVllKVmc2MUVzQVZ5bVI",
-      "speaker_name": "Tanay Pant",
-      "speaker_desc": "Web Developer Advocate, Mozilla Foundation",
-      "speaker_session": "Multiplayer Games with WebXR",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_image": "https://i.ibb.co/0jpZfC1/Seriki.jpg",
+      "speaker_name": "Esther Seriki",
+      "speaker_desc": "Organizer, Women's Will",
+      "speaker_session": "The 21st Century Woman: Emotional Intelligence",
+      "linkedin_url": "https://www.linkedin.com/in/esther-adeola-seriki-36a136145/",
+      "twitter_url": "https://twitter.com/seriki_esther"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/AEnB2UqEG002BsGCqZLZRFUGu9xo4IpGamz6gTqlWxWyME0s-n8gR7Rs0tM5R6mPMOCRYf5rAunWx0GQeXDUHPag_XWGApdekw.cks8tPlPy-TeucOT",
-      "speaker_name": "Eric Maxwell",
-      "speaker_desc": "Software Developer, Big Nerd Ranch",
-      "speaker_session": "Mobile Database Persistence",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
-      "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "speaker_image": "https://i.ibb.co/f4WDF1R/Whats-App-Image-2019-10-16-at-5-45-50-AM.jpg",
+      "speaker_name": "Isaac Ajisafe",
+      "speaker_desc": "Consultant, Life Coach, Moltivation Speaker",
+      "speaker_session": "After Degree what Next?",
+      "linkedin_url": "https://www.linkedin.com/in/isaacajisafe/",
+      "twitter_url": "https://twitter.com/isaacajisafesbm"
     },
     {
-      "speaker_image": "https://devfest.withgoogle.com/api/assets?path=/gs/gweb-gc-gather-production.appspot.com/files/L2FwcGhvc3RpbmdfZ2xvYmFsL2Jsb2JzL0FFbkIyVXBET0RKT0JBV195UjVuSDRKS3JEenphN2gzLW80WEdvenlGdkZhNGREUzFmQUk1RjJnR0N5eEJIdlBkOVhlLUdwalVSWXlxbXJ4VFA0QXRZdnB4WDllWFNpdmdiNy14Q0tLOENCeU41Yks4NF9vUVQ0LlVFY0RBeld0ZTd4OEtSUTg",
-      "speaker_name": "Yohan Totting",
-      "speaker_desc": "Web Developer Advocate, Google",
-      "speaker_session": "Progressive Experience Web Development",
-      "fb_url": "https://facebook.com/imthepk",
-      "github_url": "https://github.com/iampawan",
+      "speaker_image": "https://media.licdn.com/dms/image/C5603AQFPH8zQre0Zrg/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=eYj3q6BOm5EfgGFBkTEMaAhYM0cdkxQ1QFSxwB-7H_I",
+      "speaker_name": "Olufemi Ajibulu",
+      "speaker_desc": "Co-Organizer, GDG Ado-Ekiti, Software Enginner",
+      "speaker_session": "Sharing of Developer Story",
+      "linkedin_url": "https://www.linkedin.com/in/fzany",
+      "twitter_url": "https://twitter.com/FzanyA"
+    },
+    {
+      "speaker_image": "https://media.licdn.com/dms/image/C5603AQELMo6rvKef_A/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=ljuX3-wAGsYzj4LWNuRytqc3TP98z2OKcKulliTPobQ",
+      "speaker_name": "Oluwaseyi Ayodele",
+      "speaker_desc": "Co-Organizer, GDG Cloud Ado. Ex-Lead, DSD EKSU",
+      "speaker_session": "Sharing of Developer Story",
       "linkedin_url": "https://linkedin.com/in/imthepk",
-      "twitter_url": "https://twitter.com/imthepk"
+      "twitter_url": "https://twitter.com/Fransunisoft"
+    },
+    {
+      "speaker_image": "https://media.licdn.com/dms/image/C5603AQGz_JluBjitLA/profile-displayphoto-shrink_200_200/0?e=1576713600&v=beta&t=bRqJhUlnZPMSxPuYIxPbA-by3kcgGFUgO1o1r3ScQvw",
+      "speaker_name": "Dele Callistus Amefo",
+      "speaker_desc": "Data Analyst, Uplift Nigeria. Lead, GDG Sokoto",
+      "speaker_session": "Machine and Deep Learning",
+      "linkedin_url": "https://linkedin.com/in/imthepk",
+      "twitter_url": "https://twitter.com/deleamefo"
+    },
+    {
+      "speaker_image": "https://i.ibb.co/rwhpqyd/David.jpg",
+      "speaker_name": "David Oluwabusayo",
+      "speaker_desc": "Host and Lead GDG Ado-Ekiti",
+      "speaker_session": "App and Story Sharing",
+      "linkedin_url": "https://linkedin.com/in/davidstont",
+      "twitter_url": "https://twitter.com/david_stont"
+    },
+    {
+      "speaker_image": "http://gdggreece.gr/wp-content/uploads/2019/08/DevFest-Social-Square.gif",
+      "speaker_name": "Mary Oso Omotoso",
+      "speaker_desc": "Media Entrepreneur, Public Speaker, Politician",
+      "speaker_session": "The Strenght of Women, The Future of our Generation",
+      "linkedin_url": "https://www.linkedin.com",
+      "twitter_url": "https://twitter.com/maryosoomotoso"
     }
   ]
 }

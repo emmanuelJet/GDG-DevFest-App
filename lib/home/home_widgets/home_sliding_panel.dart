@@ -30,7 +30,7 @@ class _HomeSlidingPanelState extends State<HomeSlidingPanel> {
   }
 
   static final CameraPosition _kGooglePlex = CameraPosition(
-    target: LatLng(37.42796133580664, -122.085749655962),
+    target: LatLng(7.629427, 5.2145963),
     zoom: 14.4746,
   );
 
@@ -38,7 +38,7 @@ class _HomeSlidingPanelState extends State<HomeSlidingPanel> {
     return <Marker>[
       Marker(
           markerId: MarkerId("marker_1"),
-          position: LatLng(37.42796133580664, -122.085749655962),
+          position: LatLng(7.629427, 5.2145963),
           icon: BitmapDescriptor.defaultMarkerWithHue(
             BitmapDescriptor.hueOrange,
           )),
@@ -88,13 +88,13 @@ class _HomeSlidingPanelState extends State<HomeSlidingPanel> {
                 child: RichText(
                   textAlign: TextAlign.center,
                   text: TextSpan(
-                      text: "Google Office\n",
+                      text: "DevFest Ado-Ekiti\n",
                       style: Theme.of(context).textTheme.title.copyWith(
                             fontWeight: FontWeight.bold,
                           ),
                       children: [
                         TextSpan(
-                            text: "Shoreline Amphitheatre, Mountain View, CA",
+                            text: "Arowolo Gardens, Opp. Fajuyi Pavilion",
                             style: Theme.of(context).textTheme.subtitle,
                             children: []),
                       ]),

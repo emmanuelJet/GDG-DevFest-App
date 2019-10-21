@@ -18,21 +18,31 @@ class SponsorPage extends StatelessWidget {
             height: 30,
           ),
           SponsorImage(
-            imgUrl: "https://devfest.gdgkolkata.org/assets/img/jetbrains.png",
+            imgUrl: "https://i.ibb.co/P6cB9Wq/WTM.jpg",
           ),
           SizedBox(
             height: 30,
           ),
           SponsorImage(
-            imgUrl:
-                "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/220px-Kotlin-logo.svg.png",
+            imgUrl: "https://i.ibb.co/tms74mr/portofino.jpg",
           ),
           SizedBox(
             height: 30,
           ),
           SponsorImage(
-            imgUrl:
-                "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_0016c93c710cf35990b999cba3a59bae/firebase.png",
+            imgUrl: "https://i.ibb.co/LpgqhdZ/github.jpg",
+          ),
+          SizedBox(
+            height: 30,
+          ),
+          SponsorImage(
+            imgUrl: "https://i.ibb.co/5LbFmFM/stont.jpg",
+          ),
+          SizedBox(
+            height: 30,
+          ),
+          SponsorImage(
+            imgUrl: "https://i.ibb.co/ypbxR1p/ako.jpg",
           )
         ],
       ),

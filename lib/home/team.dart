@@ -27,10 +27,8 @@ class Team {
   String job;
   String image;
   String speciality;
-  String fbUrl;
   String twitterUrl;
   String linkedinUrl;
-  String githubUrl;
   String contribution;
 
   Team(
@@ -39,10 +37,8 @@ class Team {
       this.job,
       this.image,
       this.speciality,
-      this.fbUrl,
       this.twitterUrl,
       this.linkedinUrl,
-      this.githubUrl,
       this.contribution});
 
   Team.fromJson(Map<String, dynamic> json) {
@@ -51,10 +47,8 @@ class Team {
     job = json['job'];
     image = json['image'];
     speciality = json['speciality'];
-    fbUrl = json['fb_url'];
     twitterUrl = json['twitter_url'];
     linkedinUrl = json['linkedin_url'];
-    githubUrl = json['github_url'];
     contribution = json['contribution'];
   }
 
@@ -65,10 +59,8 @@ class Team {
     data['job'] = this.job;
     data['image'] = this.image;
     data['speciality'] = this.speciality;
-    data['fb_url'] = this.fbUrl;
     data['twitter_url'] = this.twitterUrl;
     data['linkedin_url'] = this.linkedinUrl;
-    data['github_url'] = this.githubUrl;
     data['contribution'] = this.contribution;
     return data;
   }
